@@ -1,0 +1,14 @@
+########  app_1 #######
+fastapi
+uvicorn
+joblib
+scipy
+xgboost
+
+
+########  app_2 #######
+python-multipart
+
+
+########  app_3 #######
+sqlalchemy
